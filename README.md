@@ -6,4 +6,6 @@ engine to return hot exhaust gases out at a time of exhaust stroke.
 Design of Exhaust valve required specific engine parameter in this we have created GUI to automate The Design Calculation Here. i am happy to share py script here.
 
 <b>RUN ON LINUX using following command</b> 
+
+<p>apt-get install python3-pil python3-pil.imagetk</p>
 <p>python valve.py</p> 
