@@ -8,4 +8,4 @@ Design of Exhaust valve required specific engine parameter in this we have creat
 <b>RUN ON LINUX using following command</b> 
 
 <p>apt-get install python3-pil python3-pil.imagetk</p>
-<p>python valve.py</p> 
+<p>sudo python3 valve.py</p> 
